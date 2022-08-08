@@ -1,0 +1,35 @@
+body {
+    background-image: url(img/фон.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: indigo;
+    margin: 5%;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: "Monotype Corsiva";
+    font-size: 2em;
+    font-weight: 100;
+}
+
+a {
+    color: orangered
+}
+
+img {
+    border: 2px solid rgb(158, 112, 218);
+}
+
+p.decoration {
+    text-decoration: underline;
+    font-style: oblique
+}
+
+p.transform {
+    text-transform: uppercase;
+}
+
+p.indent {
+    text-indent: 25px
+}
